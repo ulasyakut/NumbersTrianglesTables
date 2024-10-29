@@ -16,7 +16,8 @@ public class NumberUtilities {
     }
 
     public static String getRange(int stop) {
-        return null;
+
+        return getRange(0,stop,1);
     }
 
     /*
